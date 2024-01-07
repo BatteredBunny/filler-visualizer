@@ -1,9 +1,9 @@
 [package]
 name = "filler-visualizer"
 version = "0.1.0"
-authors = ["Ayes <ayes2022@protonmail.com>"]
+authors = ["BatteredBunny <ayes2022@protonmail.com>"]
 edition = "2021"
-repository = "https://github.com/ayes-web/filler-visualizer"
+repository = "https://github.com/BatteredBunny/filler-visualizer"
 
 [dependencies]
 bevy = "0.9.1"
